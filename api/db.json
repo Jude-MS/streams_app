@@ -1,0 +1,21 @@
+{
+  "streams": [
+    {
+      "title": "Programatic Navigation Made by a patch",
+      "description": "You should not see this page after creating yeah!!!!!",
+      "userId": "116806454015632252756",
+      "id": 3
+    },
+    {
+      "title": "My new component reuse with the edit!",
+      "description": "It should works twice!",
+      "id": 4
+    },
+    {
+      "title": "This is the stream",
+      "description": "Another pretty good stream to view",
+      "userId": "116806454015632252756",
+      "id": 5
+    }
+  ]
+}
